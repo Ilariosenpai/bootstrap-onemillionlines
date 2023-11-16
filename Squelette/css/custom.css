@@ -1,8 +1,83 @@
 /* Vos customisations des classes de Bootstrap */
 
 
+*{
+
+    font-family: 'Arvo', serif;
+    
+}
 
 
+#logotop{
+
+    margin-left: 250px;
+
+
+
+}
+
+
+#btnhaut{
+
+   margin-right: 350px;
+   
+    
+}
+
+#bouton{
+
+    font-family: 'Arvo', serif;
+}
+
+#home{
+
+    background-image:url(/Squelette/images/hero-image.jpg);
+    background-size: cover;
+
+}
+
+h1{
+
+   
+    font-family: 'Arvo', serif;
+    
+}
+
+#textehome{
+
+    
+    font-family: 'Arvo', serif;
+   padding-top: 80px;
+
+}
+
+#involved{
+
+    background-color:rgba(255, 68, 0, 0.139);
+    
+}
+
+#ratio{
+
+    color: rgba(255, 68, 0, 0.139);
+}
+
+#student{
+
+    padding-right: 40px;
+}
+
+#educators{
+
+    padding-left: 40px;
+}
+
+#lepied{
+
+    padding-top: 200px;
+    padding-bottom: 30px;
+    padding-left: 200px;
+}
 /* Responsive Styling */
 
 @media (max-width: 1199px) {
